@@ -1,0 +1,43 @@
+{
+    "analysis": [
+        {
+            "timestamp": "00:11",
+            "action": "Cracking eggs",
+            "feedback": "Technique is acceptable, but lacks precision.  Crack the eggs on a flat surface to avoid shell fragments. Separate the yolks and whites into separate bowls for better control of texture and cooking."
+        },
+        {
+            "timestamp": "00:14-00:15",
+            "action": "Seasoning eggs",
+            "feedback": "Seasoning is insufficient and haphazard. Salt and pepper should be added in a controlled fashion, ensuring even distribution. Use freshly ground pepper for superior flavor."
+        },
+        {
+            "timestamp": "00:16-00:18",
+            "action": "Whisking eggs",
+            "feedback": "Whisking is too vigorous.  Incorporate air gently to create a light and fluffy omelette.  Avoid over-whisking, which toughens the eggs."
+        },
+        {
+            "timestamp": "00:19-00:22",
+            "action": "Adding oil and eggs to the pan",
+            "feedback": "Oil quantity seems excessive; reduce for a healthier omelette. Pour eggs evenly to ensure uniform thickness. The pan does not appear adequately hot.  Ensure the pan is sufficiently hot before adding the eggs."
+        },
+        {
+            "timestamp": "00:23-00:25",
+            "action": "Cooking the omelette",
+            "feedback": "The stirring motion is disruptive; instead, use a gentle lifting motion to allow the eggs to set evenly. Over-stirring will create a dry omelette. Your cooking temperature appears too high. Reduce heat to a gentler simmer."
+        },
+        {
+            "timestamp": "00:26-00:29",
+            "action": "Folding the omelette",
+            "feedback": "The folding is clumsy.  Practice smooth, swift movements. A slightly larger pan would allow for easier folding."
+        },
+        {
+            "timestamp": "00:29-00:30",
+            "action": "Plating",
+            "feedback": "Plating is lackluster. The presentation is sloppy. Arrange the omelette neatly on the plate with a slight curve, demonstrating attention to detail. Garnish with fresh herbs for an elegant touch."
+        }
+    ],
+    "summary": {
+        "title": "Analysis of My Cooking",
+        "overall_feedback": "Your omelette-making skills require significant improvement. Your technique is uneven, and the final product lacks both aesthetic appeal and consistent texture. Focus on mastering each step, from precise egg handling and gentle whisking to consistent heat control and elegant presentation. Practice makes perfect, so repeated attempts are necessary."
+    }
+}
